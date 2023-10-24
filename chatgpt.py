@@ -28,7 +28,7 @@ DAXX = Client(
 START = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ.
-᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR
+᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR 💥✨
 ──────────────────
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
 ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
@@ -42,7 +42,7 @@ SOURCE = xa
 SOURCE_TEXT = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ.
-᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR
+᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR ⚡✨
 ──────────────────
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ
 """
@@ -73,7 +73,7 @@ X = [
     [
         InlineKeyboardButton(text="💘 𝙾𝚆𝙽𝙴𝚁 💘", url=f"https://t.me/SAIF_DICTATOR"),
               
-        InlineKeyboardButton(text="💖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 💖", url=f"https://t.me/SAIFHELPGC"),
+        InlineKeyboardButton(text="💖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 💖", url=f"https://t.me/T10ThiesKingsSHR"),
     ]
     ]
     
@@ -86,7 +86,7 @@ PNG_BTN = [
      ],
      [
          InlineKeyboardButton(text="✨ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✨", 
-                              url=f"https://t.me/T10ThiesKingsSHR",
+                              url=f"https://t.me/SAIFHELPGC",
          ),
      ],
 ]
