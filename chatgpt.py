@@ -53,11 +53,11 @@ g=choice(x)
 MAIN = [
     [
         InlineKeyboardButton(text="💘 𝙾𝚆𝙽𝙴𝚁 💘", url=f"https://t.me/SAIF_DICTATOR"),
-        InlineKeyboardButton(text="🏵 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🌼 ", url=f"https://t.me/SAIFHELPGC"),
+        InlineKeyboardButton(text="🏵 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🌼 ", url=f"https://t.me/T10ThiesKingsSHR"),
     ],
     [
         InlineKeyboardButton(
-            text="🌹 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🌹",
+            text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -80,7 +80,7 @@ X = [
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="🌹 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🌹",
+             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
@@ -162,7 +162,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [𝐒𝐀𝐈𝐅](https://t.me/SAIF_DICTATOR)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [𝗦𝗔𝗜𝗙](https://t.me/SAIF_DICTATOR)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
@@ -265,8 +265,8 @@ if __name__ == "__main__":
         raise Exception("Your API_ID/API_HASH is not valid.")
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
-    print(f"""JOIN [ 𝗬𝗢𝗨𝗥 𝗦𝗔𝗜𝗙 𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧]
-    𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗔𝗜𝗙 
+    print(f"""JOIN [💘💥𝗬𝗢𝗨𝗥 𝗦𝗔𝗜𝗙 𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧💘💥]
+    🌺🌻𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗔𝗜𝗙 🌹💖
  {BOT_NAME} ɪs ᴀʟɪᴠᴇ!  
     """)
     idle()
