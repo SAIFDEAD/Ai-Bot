@@ -1,13 +1,13 @@
 
 {
-  "name": "𝗖𝗛𝗔𝗧𝗚𝗣𝗧𝗕𝗢𝗧",
-  "description": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗧 𝗚𝗣𝗧 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗗𝗔𝗫𝗫.",
-  "logo": "https://telegra.ph/file/5632b2e02f0a72431ed97.jpg",
+  "name": "💖 𝗦𝗔𝗜𝗙 𝗔𝗜𝗕𝗢𝗧 ✨",
+  "description": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗧 𝗔𝗜𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗔𝗜𝗙.",
+  "logo": "https://telegra.ph/file/9430db94fe0b8aac4617e.jpg",
   "keywords": [
-    "telegram", "chatgpt",
+    "telegram", "AIBOT",
     "python",
     "pyrogram",
-    "DAXXTEAM"   
+    "SAIFDEAD"   
   ],
   "stack": "heroku-20",
   "addons": [
@@ -19,7 +19,7 @@
     }
   ],
   "env": {
-    "BOT_TOKEN": { "description": "𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗗𝗔𝗟 𝗡𝗔𝗔 𝗝𝗛𝗔𝗔𝗧𝗛𝗨",
+    "BOT_TOKEN": { "description": "𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗗𝗔𝗟 𝗡𝗔𝗔 𝗕𝗢𝗧 𝗙𝗔𝗧𝗛𝗘𝗥 𝗦𝗘 𝗕𝗡𝗔 𝗟𝗢",
       "required": true
     },
     "OWNER_USERNAME": {
@@ -27,7 +27,7 @@
       "required": true
     },
     "OPENAI_KEY": {
-      "description": "𝗢𝗣𝗘𝗡 𝗔𝗜 𝗔𝗣𝗜 𝗞𝗘𝗬 ",
+      "description": "𝗢𝗣𝗘𝗡 𝗔𝗜 𝗔𝗣𝗜 𝗞𝗘𝗬 𝗌𝖾𝖺𝗋𝖼𝗁 𝗈𝗇 𝖼𝗁𝗋𝗈𝗆𝖾 ",
       "required": true
     },
     "BOT_USERNAME": {
@@ -43,10 +43,10 @@
       "required": true
     },
     "STKR": {
-      "description": "𝗦𝗧𝗞𝗥 ", "required": true
+      "description": "𝗦𝗧𝗜𝗞𝗘𝗥 𝗀𝗂𝖿 𝖻𝗇𝖺𝗅𝗈 ", "required": true
     },
     "START_IMG": {
-      "description": "𝗦𝗧𝗔𝗥𝗧 𝗕𝗢𝗧 𝗨𝗥𝗟 𝗗𝗔𝗟𝗘 𝗗𝗘 𝗟𝗢𝗡𝗗𝗨.",
+      "description": "𝗦𝗧𝗔𝗥𝗧 𝗜𝗠𝗚 𝗗𝗔𝗟𝗢 ",
       "required": true
     },
     "UPDATE_CHNL": {
@@ -61,5 +61,5 @@
       "required": true
     }
   },
-  "repository": "https://github.com/DAXXTEAM/DAXXCHATGPT"
+  "repository": "https://github.com/SAIFDEAD/AIBOT"
 }
