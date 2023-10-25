@@ -27,8 +27,9 @@ DAXX = Client(
 )
 START = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
-➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ.
-᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR 💥✨
+➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
+☢ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜsᴛɪᴏɴ ᴇᴀsɪʟʏ
+᯽ ᴍᴀᴅᴇ ʙʏ :- @Saif_Dictator
 ──────────────────
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
 ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
@@ -41,7 +42,8 @@ xa = bytearray.fromhex("68747470733a2f2f6769746875622e636f6d2f444158585445414d2f
 SOURCE = xa
 SOURCE_TEXT = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
-➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ.
+➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
+☆ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴀᴛɪᴏɴ ᴇᴀsʟɪʏ
 ᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR ⚡✨
 ──────────────────
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ
@@ -86,7 +88,7 @@ PNG_BTN = [
      ],
      [
          InlineKeyboardButton(text="✨ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✨", 
-                              url=f"https://t.me/SAIFHELPGC",
+                              url=f"https://t.me/T10ThiesKingsSHR",
          ),
      ],
 ]
@@ -176,7 +178,7 @@ async def chat(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
         if len(message.command) < 2:
             await message.reply_text(
-            "Example:**\n\n`/chatgpt Where is TajMahal?`")
+            "Example:**\n\n`/chatgpt And Your Qustion`")
         else:
             a = message.text.split(' ', 1)[1]
             MODEL = "gpt-3.5-turbo"
@@ -216,7 +218,7 @@ async def chat(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.UPLOAD_PHOTO)
         if len(message.command) < 2:
             await message.reply_text(
-            "**Example:**\n\n`/generate a white siamese cat`")
+            "**Example:**\n\n`/generate image name what do you want`")
         else:
             a = message.text.split(' ', 1)[1]
             response= openai.Image.create(prompt=a ,n=1,size="1024x1024")
