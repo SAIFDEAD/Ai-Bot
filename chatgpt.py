@@ -65,7 +65,7 @@ MAIN = [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="💥 𝚁𝙴𝙿𝙾 💥", url=f"https://api.telegram.org/bot868654234:AAFIGS7O57OyoIwG6zI6Pu0u59TbuRqS-dM/getFile"),
+        InlineKeyboardButton(text="💥 𝚁𝙴𝙿𝙾 💥", url=f"https://telegra.ph/file/90d63ea99b2b2cb012b59.mp4"),
         InlineKeyboardButton(text="😊 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 😊", url=f"https://t.me/SAIFHELPGC"),
     ],
 ]
