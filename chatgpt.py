@@ -52,8 +52,7 @@ SOURCE_TEXT = f"""
 
 x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
 g=choice(x)
-MAIN = [
-    [
+MAIN =[
         InlineKeyboardButton(text="𝙾𝚆𝙽𝙴𝚁", url=f"https://t.me/DRDIC1"),
         InlineKeyboardButton(text="𝚂𝚄𝙿𝙿𝙾𝚁ᴛ", url=f"https://t.me/Dead_SupportChat"),
     ],
