@@ -29,7 +29,7 @@ START = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
 ☢ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜsᴛɪᴏɴ ᴇᴀsɪʟʏ
-᯽ ᴍᴀᴅᴇ ʙʏ :- @Saif_Dictator
+᯽ ᴍᴀᴅᴇ ʙʏ :- @DRDIC1
 ──────────────────
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
 ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
@@ -44,7 +44,7 @@ SOURCE_TEXT = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
 ☆ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴀᴛɪᴏɴ ᴇᴀsʟɪʏ
-᯽ ᴍᴀᴅᴇ ʙʏ :- @SAIF_DICTATOR ⚡✨
+᯽ ᴍᴀᴅᴇ ʙʏ :- @DRDIC1 ✨
 ──────────────────
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ
 """
@@ -54,8 +54,8 @@ x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
 g=choice(x)
 MAIN = [
     [
-        InlineKeyboardButton(text="💘 𝙾𝚆𝙽𝙴𝚁 💘", url=f"https://t.me/SAIF_DICTATOR"),
-        InlineKeyboardButton(text="🏵 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🌼 ", url=f"https://t.me/T10ThiesKingsSHR"),
+        InlineKeyboardButton(text="𝙾𝚆𝙽𝙴𝚁", url=f"https://t.me/DRDIC1"),
+        InlineKeyboardButton(text="𝚂𝚄𝙿𝙿𝙾𝚁ᴛ", url=f"https://t.me/Dead_SupportChat"),
     ],
     [
         InlineKeyboardButton(
@@ -67,15 +67,15 @@ MAIN = [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="💥 𝚁𝙴𝙿𝙾 💥", url=f"https://telegra.ph/file/90d63ea99b2b2cb012b59.mp4"),
-        InlineKeyboardButton(text="😊 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 😊", url=f"https://t.me/SAIFHELPGC"),
+        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/SAIF_DICTATOR"),
+        InlineKeyboardButton(text="ᴜ𝙿𝙳𝙰𝚃𝙴𝚂", url=f"https://t.me/DEAD_GROUPCHAT"),
     ],
-]
+ 
 X = [
     [
-        InlineKeyboardButton(text="💘 𝙾𝚆𝙽𝙴𝚁 💘", url=f"https://t.me/SAIF_DICTATOR"),
+        InlineKeyboardButton(text="𝙾𝚆𝙽𝙴𝚁", url=f"https://t.me/DRDIC1"),
               
-        InlineKeyboardButton(text="💖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 💖", url=f"https://t.me/T10ThiesKingsSHR"),
+        InlineKeyboardButton(text="s𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/Dead_SupportChat"),
     ]
     ]
     
@@ -87,16 +87,16 @@ PNG_BTN = [
          ),
      ],
      [
-         InlineKeyboardButton(text="✨ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ✨", 
-                              url=f"https://t.me/T10ThiesKingsSHR",
+         InlineKeyboardButton(text="𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ", 
+                              url=f"https://t.me/Dead_SupportChat",
          ),
      ],
 ]
-SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('sᴏᴜʀᴄᴇ', url=f"https://graph.org/file/1cec00803e0497f6794f3.mp4")]])
-HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ᴇxᴀᴍᴘʟᴇ: `/chatgpt write a simple flask app in python.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a cute girl photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @SAIF_DICTATOR**"
+SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url=f"https://t.me/SAIF_DICTATOR")]])
+HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ᴇxᴀᴍᴘʟᴇ: `/chatgpt write a simple flask app in python.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a cute girl photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @DRDIC1**"
 HELP_BACK = [
      [
-           InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/T10ThiesKingsSHR"),
+           InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/DEAD_GROUPCHAT"),
            
      ],
     [
@@ -112,7 +112,7 @@ async def start(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(0.2)
-        await accha.edit("🥵𝐒𝐀𝐈𝐅 𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐈𝐍𝐆🥵..")
+        await accha.edit("🌹 𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐈𝐍𝐆 🌹..")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(
@@ -164,7 +164,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [𝗦𝗔𝗜𝗙](https://t.me/SAIF_DICTATOR)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [🇩𝜩Ⓐ︎🇩](https://t.me/DRDIC1)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
