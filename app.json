@@ -1,13 +1,13 @@
 
 {
   "name": "𝗖𝗛𝗔𝗧𝗚𝗣𝗧𝗕𝗢𝗧",
-  "description": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗧 𝗚𝗣𝗧 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗗𝗔𝗫𝗫.",
+  "description": "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗧 𝗚𝗣𝗧 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗜𝗩.",
   "logo": "https://te.legra.ph/file/947302893812c6dfeec75.jpg",
   "keywords": [
     "telegram", "chatgpt",
     "python",
     "pyrogram",
-    "DAXXTEAM"   
+    "SAIFDEAD"   
   ],
   "stack": "heroku-20",
   "addons": [
