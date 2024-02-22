@@ -29,8 +29,8 @@
     },
     "OPENAI_KEY": {
       "description": "𝗢𝗣𝗘𝗡 𝗔𝗜 𝗔𝗣𝗜 𝗞𝗘𝗬 𝗌𝖾𝖺𝗋𝖼𝗁 𝗈𝗇 𝖼𝗁𝗋𝗈𝗆𝖾 ",
-      "required": true
-      "value": "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",
+      "required": true ,
+      "value": "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"
     },
     "BOT_USERNAME": {
       "description": "𝗕𝗢𝗧 𝗨𝗦𝗘𝗥𝗡𝗔𝗠𝗘 𝗗𝗔𝗟 𝗗𝗘 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @",
