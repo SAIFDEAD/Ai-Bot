@@ -26,10 +26,10 @@ DAXX = Client(
     bot_token = BOT_TOKEN
 )
 START = f"""
-๏ ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
-➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
-☢ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜsᴛɪᴏɴ ᴇᴀsɪʟʏ
-᯽ ᴍᴀᴅᴇ ʙʏ :- @DRDIC1
+𒊹 ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
+𒊹 ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
+𒊹 ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜsᴛɪᴏɴ ᴇᴀsɪʟʏ
+𒊹 ᴍᴀᴅᴇ ʙʏ :- @I_C2H5OH_I
 ──────────────────
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
 ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
@@ -41,10 +41,10 @@ Rᴇᴀᴅ Tʜᴇ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ
 xa = bytearray.fromhex("68747470733a2f2f6769746875622e636f6d2f444158585445414d2f4441585843484154475054").decode()
 SOURCE = xa
 SOURCE_TEXT = f"""
-๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
-➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
-☆ ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴀᴛɪᴏɴ ᴇᴀsʟɪʏ
-᯽ ᴍᴀᴅᴇ ʙʏ :- @DRDIC1 ✨
+𒊹 ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
+𒊹 ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
+𒊹 ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴀᴛɪᴏɴ ᴇᴀsʟɪʏ
+𒊹 ᴍᴀᴅᴇ ʙʏ :- @I_C2H5OH_I ✨
 ──────────────────
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ
 """
@@ -54,12 +54,12 @@ x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
 g=choice(x)
 MAIN = [
     [ 
-        InlineKeyboardButton(text="𝙾𝚆𝙽𝙴𝚁", url=f"https://t.me/DRDIC1"),
-        InlineKeyboardButton(text="𝚂𝚄𝙿𝙿𝙾𝚁ᴛ", url=f"https://t.me/Dead_SupportChat"),
+        InlineKeyboardButton(text="𝐎𝚆𝙽𝙴𝚁", url=f"https://t.me/I_C2H5OH_I"),
+        InlineKeyboardButton(text="𝐒𝚄𝙿𝙿𝙾𝚁ᴛ", url=f"https://t.me/APNI_MEHFIL"),
     ],
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
+            text="•─╼⃝𖠁 𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ 𖠁⃝╾─•",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -67,40 +67,40 @@ MAIN = [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/SAIF_DICTATOR"),
-        InlineKeyboardButton(text="ᴜ𝙿𝙳𝙰𝚃𝙴𝚂", url=f"https://t.me/DEAD_GROUPCHAT"),
+        InlineKeyboardButton(text="𝐃ᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/I_C2H5OH_I"),
+        InlineKeyboardButton(text="𝐔𝙿𝙳𝙰𝚃𝙴𝚂", url=f"https://t.me/I_LittleMoons_I"),
     ],
 ]
 X = [
     [
-        InlineKeyboardButton(text="𝙾𝚆𝙽𝙴𝚁", url=f"https://t.me/DRDIC1"),
+        InlineKeyboardButton(text="𝐎𝚆𝙽𝙴𝚁", url=f"https://t.me/I_C2H5OH_I"),
               
-        InlineKeyboardButton(text="s𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/Dead_SupportChat"),
+        InlineKeyboardButton(text="𝐒𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/APNI_MEHFIL"),
     ]
     ]
     
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
+             text="•─╼⃝𖠁 𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ 𖠁⃝╾─•",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
      [
-         InlineKeyboardButton(text="𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ", 
-                              url=f"https://t.me/Dead_SupportChat",
+         InlineKeyboardButton(text="𝐒𝚄𝙿𝙿𝙾𝚁𝚃 ", 
+                              url=f"https://t.me/APNI_MEHFIL",
          ),
      ],
 ]
-SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url=f"https://t.me/SAIF_DICTATOR")]])
-HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ᴇxᴀᴍᴘʟᴇ: `/chatgpt write a simple flask app in python.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a cute girl photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @DRDIC1**"
+SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('𝐃ᴇᴠᴇʟᴏᴘᴇʀ', url=f"https://t.me/I_C2H5OH_I")]])
+HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ᴇxᴀᴍᴘʟᴇ: `/chatgpt How are you ?.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a cute girl photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @I_C2H5OH_I**"
 HELP_BACK = [
      [
-           InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/DEAD_GROUPCHAT"),
+           InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/I_LittleMoons_I"),
            
      ],
     [
-           InlineKeyboardButton(text="ʙᴀᴄᴋ ", callback_data="HELP_BACK"),
+           InlineKeyboardButton(text="𝐁ᴀᴄᴋ ", callback_data="HELP_BACK"),
     ],
 ]
 
@@ -154,17 +154,17 @@ async def source(bot, m):
 @DAXX.on_message(filters.command(["ping","alive"], prefixes=["+", "/", "-", "?", "$", "&","."]))
 async def ping(client, message: Message):
         start = datetime.now()
-        t = "⚡🇩𝜩Ⓐ︎🇩⚡..."
+        t = "ᵛ ⁱ ᵖ° 🫧 𓆩𝐒 Ħ Ɩ Ѵ Δ𓆪•𝅃꯭ 🎫..."
         txxt = await message.reply(t)
         await asyncio.sleep(0.25)
-        await txxt.edit_text("⚡🇩𝜩Ⓐ︎🇩⚡......")
+        await txxt.edit_text("•─╼⃝𖠁 𝐂нαтɢρт ✘ 𝐀ɪ 𖠁⃝╾─•")
         await asyncio.sleep(0.35)
         await txxt.delete()
         end = datetime.now()
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [🇩𝜩Ⓐ︎🇩](https://t.me/DRDIC1)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ᵛ ⁱ ᵖ° 🫧 𓆩𝐒 Ħ Ɩ Ѵ Δ𓆪•𝅃꯭ 🎫](https://t.me/I_C2H5OH_I)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
@@ -178,7 +178,7 @@ async def chat(bot, message):
         await bot.send_chat_action(message.chat.id, ChatAction.TYPING)
         if len(message.command) < 2:
             await message.reply_text(
-            "Example:**\n\n`/chatgpt And Your Qustion`")
+            "Example:**\n\n`/chatgpt How are you ?`")
         else:
             a = message.text.split(' ', 1)[1]
             MODEL = "gpt-3.5-turbo"
@@ -267,10 +267,10 @@ if __name__ == "__main__":
         raise Exception("Your API_ID/API_HASH is not valid.")
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
-    print(f"""JOIN [💘💥𝗬𝗢𝗨𝗥 𝗦𝗔𝗜𝗙 𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧💘💥]
-    🌺🌻𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗔𝗜𝗙 🌹💖
+    print(f"""JOIN [💘💥𝗬𝗢𝗨𝗥  𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧💘💥]
+    🌺🌻𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗠𝗔𝗗𝗘 𝗕𝗬 ᵛ ⁱ ᵖ° 🫧 𓆩𝐒 Ħ Ɩ Ѵ Δ𓆪•𝅃꯭ 🎫 
  {BOT_NAME} ɪs ᴀʟɪᴠᴇ!  
     """)
     idle()
     DAXX.stop()
-    print("𝗦𝗔𝗜𝗙 𝗔𝗜 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣 !")
+    print("ᵛ ⁱ ᵖ° 🫧 𓆩𝐒 Ħ Ɩ Ѵ Δ𓆪•𝅃꯭ 🎫 𝐀𝐈 𝐁𝐎𝐓 𝐒𝐓𝐎𝐏 !")
