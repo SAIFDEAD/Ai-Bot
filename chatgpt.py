@@ -29,7 +29,7 @@ START = f"""
 𒊹 ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}
 𒊹 ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
 𒊹 ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜsᴛɪᴏɴ ᴇᴀsɪʟʏ
-𒊹 ᴍᴀᴅᴇ ʙʏ :- @I_C2H5OH_I
+𒊹 ᴍᴀᴅᴇ ʙʏ :- @balidan_addicted
 ──────────────────
 ɪ ᴀᴍ ᴀᴅᴠᴀɴᴄᴇ ʙᴏᴛ ᴀɴᴅ ᴄᴀɴ 
 ᴀɴsᴡᴇʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀɪᴇs ᴇᴀsʟɪʏ
@@ -44,7 +44,7 @@ SOURCE_TEXT = f"""
 𒊹 ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
 𒊹 ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ
 𒊹 ɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴀᴛɪᴏɴ ᴇᴀsʟɪʏ
-𒊹 ᴍᴀᴅᴇ ʙʏ :- @I_C2H5OH_I ✨
+𒊹 ᴍᴀᴅᴇ ʙʏ :- @balidan_addicted ✨
 ──────────────────
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ
 """
@@ -54,7 +54,7 @@ x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
 g=choice(x)
 MAIN = [
     [ 
-        InlineKeyboardButton(text="𝐎𝚆𝙽𝙴𝚁", url=f"https://t.me/I_C2H5OH_I"),
+        InlineKeyboardButton(text="𝐎𝚆𝙽𝙴𝚁", url=f"https://t.me/balidan_addicted"),
         InlineKeyboardButton(text="𝐒𝚄𝙿𝙿𝙾𝚁ᴛ", url=f"https://t.me/APNI_MEHFIL"),
     ],
     [
@@ -67,13 +67,13 @@ MAIN = [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="𝐃ᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/I_C2H5OH_I"),
+        InlineKeyboardButton(text="𝐃ᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/balidan_addicted"),
         InlineKeyboardButton(text="𝐔𝙿𝙳𝙰𝚃𝙴𝚂", url=f"https://t.me/I_LittleMoons_I"),
     ],
 ]
 X = [
     [
-        InlineKeyboardButton(text="𝐎𝚆𝙽𝙴𝚁", url=f"https://t.me/I_C2H5OH_I"),
+        InlineKeyboardButton(text="𝐎𝚆𝙽𝙴𝚁", url=f"https://t.me/balidan_addicted"),
               
         InlineKeyboardButton(text="𝐒𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/APNI_MEHFIL"),
     ]
@@ -92,7 +92,7 @@ PNG_BTN = [
          ),
      ],
 ]
-SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('𝐃ᴇᴠᴇʟᴏᴘᴇʀ', url=f"https://t.me/I_C2H5OH_I")]])
+SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('𝐃ᴇᴠᴇʟᴏᴘᴇʀ', url=f"https://t.me/balidan_addicted")]])
 HELP_READ = "**➻ ᴜsᴀɢᴇ** /chatgpt <prompt>\n\n ᴇxᴀᴍᴘʟᴇ: `/chatgpt How are you ?.`\n\n**➻ ᴜsᴀɢᴇ** : /generate <prompt> \nᴇxᴀᴍᴘʟᴇ: `/generate a cute girl photo`  \n\n➻ ᴜsᴀɢᴇ /lyrics : ʀᴇᴘʟʏ ᴛᴏ ᴀᴜᴅɪᴏ ꜰɪʟᴇ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ʟʏʀɪᴄꜱ**➻ ᴜsᴀɢᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @I_C2H5OH_I**"
 HELP_BACK = [
      [
@@ -164,7 +164,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ᵛ ⁱ ᵖ° 🫧 𓆩𝐒 Ħ Ɩ Ѵ Δ𓆪•𝅃꯭ 🎫](https://t.me/I_C2H5OH_I)||",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME}) ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ᵛ ⁱ ᵖ° 🫧 𓆩𝐒 Ħ Ɩ Ѵ Δ𓆪•𝅃꯭ 🎫](https://t.me/balidan_addicted)||",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
